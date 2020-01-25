@@ -17,7 +17,7 @@ Written in Python code using Jupyter Notebook
 
 3.2. Create a folder named "ml-100k". And put your own Dataset inside of it.
 
-4.1. Change the value parameter of recommendMovies function to any user_id you want from the "u.data" file. 
+4. Change the value parameter of recommendMovies function to any user_id you want from the "u.data" file. 
 (You can also add your own user_id ratings to the u.data file and use that id instead, I recommend that you use the user_id=0)
 
 5. Run MoviesRecommender.py
