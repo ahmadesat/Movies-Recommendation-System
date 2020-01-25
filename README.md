@@ -11,7 +11,7 @@ Written in Python code using Jupyter Notebook
 2. Download/Install all the required models used in the code (Using Anaconda3 interpreter can ease things up for you)
 
 
-3.1. You can either use the already given data set "ml-100k.rar" (Retrieved from https://grouplens.org/) and extract it in the same folder as the python program (Easier choice)
+3.1. You can either use the already given data set "ml-100k.zip" (Retrieved from https://grouplens.org/) and extract it in the same folder as the python program (Easier choice)
 
 *OR* 
 
